@@ -1,8 +1,9 @@
-# Parte2_ejer3
-•	Para todos los ejercicios deberá realizar una organización en métodos.
+# Ejercicio 3 : (String) 
+
 •	Utilice sangría, comentarios y buenos nombres para las declaraciones.
 
-### Ejercicio 3: (String) Cargue por teclado dos variables del tipo String. Desplegar un menú con:
+
+Cargue por teclado dos variables del tipo String. Desplegar un menú con:
 	1. Imprimir ambas cadenas y su largo.
 	2. Comparar igualdad y quien es menor (en caso de ser cadenas distintas).
 	3. Cambiar una cadena a todo mayúsculas y otra a todo minúsculas.

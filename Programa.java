@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Programa {
 	
@@ -23,4 +23,4 @@ public class Programa {
 	}
 
 }
-	
+	*/
